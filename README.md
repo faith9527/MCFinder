@@ -1,0 +1,2 @@
+# MCFinder
+a tool which can support the following functionalities:1) extracting clone pairs within a service or across services; 2) com-paring the code clones in the selected basic version with the onesof other previous four versions, and then detecting the clone pairsthat have undergone co-modifications; 3) Based on the informationcollected in Step 1  2, MCFinder can further calculate the numberof co-modifications and the number of changed lines
